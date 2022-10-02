@@ -9,6 +9,9 @@ public class LoginPage {
 	
 	// Declaration
 	
+	
+	//akash
+	
 	@FindBy (xpath = "//input[@id='email']") private WebElement userName;
 	
 	@FindBy (xpath = "//input[@id='pass']") private WebElement password;
